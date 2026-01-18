@@ -54,7 +54,7 @@ This project was created as part of a C++ learning journey on Programming Advice
 
 🌐 **GitHub**
 
-[https://github.com/waelodeh98/Rock-Paper-Scissors](https://github.com/waelodeh98)
+[https://github.com/waelodeh98](https://github.com/waelodeh98)
 
 🔗 **LinkedIn Profile**
 
