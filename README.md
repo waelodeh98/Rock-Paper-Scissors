@@ -1,5 +1,7 @@
 # Rock Paper Scissors - C++ Console Application
 
+Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_rockpaperscissors-c-console-game-activity-7427161612182085632-FMMm)
+
 ## Overview
 This is a C++ Console Application that simulates the classic Rock Paper Scissors game.  
 It allows a player to compete against the computer, play multiple rounds, and see the final results.
@@ -13,17 +15,18 @@ It allows a player to compete against the computer, play multiple rounds, and se
 - Console-based interactive UI with colored output based on round winner.
 - Ability to play multiple games in a single session.
 
-🖼️ **Screenshots**  
+🖼️ **Screenshots**
 
 ### Game Start & Player Choice
-![Screenshot 1](https://github.com/user-attachments/assets/c4b5f62d-3c7a-4cfa-8751-a728d2becfd1)
+[![Screenshot 1](https://github.com/user-attachments/assets/c4b5f62d-3c7a-4cfa-8751-a728d2becfd1)](https://www.linkedin.com/posts/waelsamer_rockpaperscissors-c-console-game-activity-7427161612182085632-FMMm)
 
-![Screenshot 2](https://github.com/user-attachments/assets/057b8929-09b9-4291-bd01-d4ff178a76ab)
+[![Screenshot 2](https://github.com/user-attachments/assets/057b8929-09b9-4291-bd01-d4ff178a76ab)](https://www.linkedin.com/posts/waelsamer_rockpaperscissors-c-console-game-activity-7427161612182085632-FMMm)
 
 ### Round Results & Game Over
-![Screenshot 3](https://github.com/user-attachments/assets/4bc5abee-c5fb-4cbb-bfa8-343415ac2acf)
+[![Screenshot 3](https://github.com/user-attachments/assets/4bc5abee-c5fb-4cbb-bfa8-343415ac2acf)](https://www.linkedin.com/posts/waelsamer_rockpaperscissors-c-console-game-activity-7427161612182085632-FMMm)
 
-![Screenshot 4](https://github.com/user-attachments/assets/0c669180-2ebd-4fdc-9c51-b3b2f9173156)
+[![Screenshot 4](https://github.com/user-attachments/assets/0c669180-2ebd-4fdc-9c51-b3b2f9173156)](https://www.linkedin.com/posts/waelsamer_rockpaperscissors-c-console-game-activity-7427161612182085632-FMMm)
+
 
 ---
 
