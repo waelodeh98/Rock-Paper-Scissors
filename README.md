@@ -15,6 +15,8 @@ It allows a player to compete against the computer, play multiple rounds, and se
 - Console-based interactive UI with colored output based on round winner.
 - Ability to play multiple games in a single session.
 
+Click on any image to watch the project video on LinkedIn
+
 🖼️ **Screenshots**
 
 ### Game Start & Player Choice
