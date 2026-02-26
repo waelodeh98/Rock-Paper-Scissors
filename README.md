@@ -1,5 +1,7 @@
 # Rock Paper Scissors - C++ Console Application
 
+![Screenshot](https://github.com/user-attachments/assets/b291c584-9aaf-455c-8cf2-7443ce1b600e)
+
 Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_rockpaperscissors-c-console-game-activity-7427161612182085632-FMMm)
 
 ## Overview
